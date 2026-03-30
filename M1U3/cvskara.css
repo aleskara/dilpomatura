@@ -1,0 +1,48 @@
+h1 {
+    font-size: 2.5em;
+    color: #333;
+    margin-bottom: 20px;
+    text-transform: uppercase;
+}
+
+p {
+    font-size: 1.2em;
+    color: #555;
+    line-height: 1.6;
+    margin-bottom: 15px;
+}
+
+.azul_fuerte {
+    font-weight: bold;
+    color: blue;
+}
+
+.subrayado {
+    text-decoration: underline;
+    font-style: italic;
+    font-weight: bold;
+}
+
+#titulo {
+    font-size: 3em;
+    border: #007BFF 2px solid;
+    color: #007BFF;
+    text-align: center;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+#imagen {
+    width: 100%;
+    height: auto;
+    border-radius: 10px;
+    margin-bottom: 20px;
+}
+
+#cuerpo {
+    background-color: #c1c1cf;
+    width: 100%;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
